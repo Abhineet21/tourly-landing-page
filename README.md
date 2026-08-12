@@ -72,6 +72,6 @@ HTML5 • CSS3 • JavaScript • Ionicons
 
 <div align="center">
 
-Designed and Developed with 🧠 by **Muhammad Tanveer Abbas** 🌟
+
 
 </div>
