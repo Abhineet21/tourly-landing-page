@@ -61,6 +61,7 @@ A polished, responsive travel website that:
 - Showcases traveler galleries to build trust and engagement  
 - Provides seamless browsing experience across desktop, tablet, and mobile  
 - Is easy to customize and extend for future enhancements
+- And easy for the future customization. 
 
 ---
 
